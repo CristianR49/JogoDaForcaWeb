@@ -96,7 +96,7 @@ class ForcaIndexView
             for (let i = 1; i <= 6; i++)
             if (this.erros == i)
             {
-                this.imgForca.src = 'Forca' + i +'.png';
+                this.imgForca.src = 'assets/Forca' + i +'.png';
 
                 if (this.erros == 6)
                 {
